@@ -1,4 +1,4 @@
-# Tennis-Match-Outcome-Generator
+# Tennis Match Simulator
 This code is designed to predict the match outcome between 2 players. It is based on their rankings.
 
 ## How to run
