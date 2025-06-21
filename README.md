@@ -1,5 +1,5 @@
 # Tennis Match Simulator
-This code is designed to predict the match outcome between 2 players. It is based on their rankings. Just because one player is ranked higher than the other does not mean thag they are guaranteed a win, the formula accounts for upsets. It also takes into account how players win a majority of their service games
+This code is designed to predict the match outcome between 2 players. It is based on their rankings. Just because one player is ranked higher than the other does not mean thag they are guaranteed a win, the formula accounts for upsets. It also takes into account how players win a majority of their service games.
 
 ## How to run
 - Make sure you have python installed
