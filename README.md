@@ -1,8 +1,30 @@
 # Tennis Match Simulator
-This code is designed to predict the match outcome between 2 players. It is based on their rankings. Just because one player is ranked higher than the other does not mean thag they are guaranteed a win, the formula accounts for upsets. It also takes into account how players win a majority of their service games.
+## A fully functional tennis match simulator in python made from scratch which simulates a realistic best of 3 set tennis match point by point
+This project was built with no external libraries at all, and it simulates the game purely off of math and randomness. This project:
+- Asks for player names and their world ranking
+- Simulates points, games, and sets with randomness weighted by player ranking
+- Prints out a game by game report and a match result
 
-## How to run
-- Make sure you have python installed
-- Save the file as Tennis-Match-Outcome-Generator.py
-- In terminal/command prompt, run "python Tennis-Match-Outcome-Generator.py"
-- You can also copy the code and put it into an online python compiler (https://www.programiz.com/python-programming/online-compiler) or an IDE
+## How to run this project 
+1. Ensure Python is installed on your device (You can verify this by running the command python --version in your terminal/command prompt)
+
+2. Download the script
+   - If you have git installed, run "clone https://github.com/Supposeduck30/tennis-match-simulator.git" in terminal/command prompt
+   - Or, download the zip file and extract it
+
+3. Navigate to the directory containing the script
+
+4. Run it by inputting into the command prompt/terminal "python Tennis_Match_Outcome_Generator.py"
+
+5. ALTERNATIVE - Paste the code into an online python compiler
+
+## How to tweak the project for your own uses 
+1. Fork the repository
+
+2. Clone the fork
+
+3. Make your changes to the code
+
+4. Commit and push your changes to the fork
+
+5. OPTIONAL - Create a pull request if you want the main repository to change the code with what you changed
