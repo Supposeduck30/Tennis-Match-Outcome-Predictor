@@ -1,4 +1,4 @@
-# Tennis Match Simulator
+# Tennis Match Simulator in Python
 ## A fully functional tennis match simulator in python made from scratch which simulates a realistic best of 3 set tennis match point by point
 This project was built with no external libraries at all, and it simulates the game purely off of math and randomness. This project:
 - Asks for player names and their world ranking
