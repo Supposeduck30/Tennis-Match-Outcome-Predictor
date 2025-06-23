@@ -28,3 +28,14 @@ This project was built with no external libraries at all, and it simulates the g
 4. Commit and push your changes to the fork
 
 5. OPTIONAL - Create a pull request if you want the main repository to change the code with what you changed
+
+## How it works 
+- With the input of the ranks, it then simulates each game, randomizing who serves first and alternating from there
+- A higher ranked player is mlre likely to win their service game
+- It outputs the score of each game and who won
+- The randomness makes it so the higher ranked is more likely to win, but there can be upsets
+- The higher the difference in rank, the more likely it is for the higher ranked person to win
+
+## Known issues 
+- If both players are inputted with the same rankings, it still works 
+- This simulator may oversimply the effects of rankings on match outcomes 
