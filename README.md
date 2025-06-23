@@ -35,6 +35,7 @@ This project was built with no external libraries at all, and it simulates the g
 - It outputs the score of each game and who won
 - The randomness makes it so the higher ranked is more likely to win, but there can be upsets
 - The higher the difference in rank, the more likely it is for the higher ranked person to win
+## ![image](https://github.com/user-attachments/assets/1dbaccb8-5f5e-421f-b8be-6670cc2caafc)
 
 ## Known issues 
 - If both players are inputted with the same rankings, it still works 
