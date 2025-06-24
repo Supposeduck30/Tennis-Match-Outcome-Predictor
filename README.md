@@ -21,6 +21,7 @@ This project was built with no external libraries at all, and it simulates the g
 
 ## 🕓 Version History 
 ### 1.0.0 
+- Terminal based
 - Asks for ranks and names of players
 - Simulates the match game by game randomly weighted towards rank
 - Outputs the score of each set
