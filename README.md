@@ -26,7 +26,7 @@ This project was built with no external libraries at all, and it simulates the g
 - Simulates the match game by game randomly weighted towards rank
 - Outputs the score of each set
 
-### 1.2.0
+### 1.1.0
 - Asks for ranks and names of players
 - Simulates the match point by point
 - Outputs a game by game summary with the score of each game
