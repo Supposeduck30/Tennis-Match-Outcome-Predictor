@@ -17,6 +17,7 @@ This project was built with no external libraries at all, and it simulates the g
 4. Run it by inputting into the command prompt/terminal "python Tennis_Match_Outcome_Generator.py"
 
 5. ALTERNATIVE - Paste the code into an online python compiler
+#### THE CODE IS IN THE .py FILE INSIDE OF THE FOLDER
 
 ## How to tweak the project for your own uses 
 1. Fork the repository
