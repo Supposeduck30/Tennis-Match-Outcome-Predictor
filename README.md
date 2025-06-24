@@ -19,6 +19,9 @@ This project was built with no external libraries at all, and it simulates the g
 5. ALTERNATIVE - Paste the code into an online python compiler
 #### THE CODE IS IN THE .py FILE INSIDE OF THE FOLDER
 
+## 🕓 Version History 
+### 1.0.0 
+
 ## 🔧 How to tweak the project for your own uses 
 1. Fork the repository
 
