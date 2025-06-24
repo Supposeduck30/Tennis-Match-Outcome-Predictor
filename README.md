@@ -5,7 +5,7 @@ This project was built with no external libraries at all, and it simulates the g
 - Simulates points, games, and sets with randomness weighted by player ranking
 - Prints out a game by game report and a match result
 
-## How to run this project 
+## 🚀 How to run this project 
 1. Ensure Python is installed on your device (You can verify this by running the command python --version in your terminal/command prompt)
 
 2. Download the script
@@ -19,7 +19,7 @@ This project was built with no external libraries at all, and it simulates the g
 5. ALTERNATIVE - Paste the code into an online python compiler
 #### THE CODE IS IN THE .py FILE INSIDE OF THE FOLDER
 
-## How to tweak the project for your own uses 
+## 🔧 How to tweak the project for your own uses 
 1. Fork the repository
 
 2. Clone the fork
@@ -30,7 +30,7 @@ This project was built with no external libraries at all, and it simulates the g
 
 5. OPTIONAL - Create a pull request if you want the main repository to change the code with what you changed
 
-## How it works 
+## 📊 How it works 
 - With the input of the ranks, it then simulates each game, randomizing who serves first and alternating from there
 - A higher ranked player is mlre likely to win their service game
 - It outputs the score of each game and who won
@@ -42,6 +42,6 @@ This project was built with no external libraries at all, and it simulates the g
 
 ## ![image](https://github.com/user-attachments/assets/6083996c-2ecc-4896-8b23-dbc0d9a0213b)
 
-## Known issues 
+## ⚠️ Known issues 
 - If both players are inputted with the same rankings, it still works 
 - This simulator may oversimply the effects of rankings on match outcomes 
