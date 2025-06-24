@@ -59,5 +59,5 @@ This project was built with no external libraries at all, and it simulates the g
 - If both players are inputted with the same rankings, it still works 
 - This simulator may oversimply the effects of rankings on match outcomes 
 
-## ⚖️ License
-### MIT License
+## ⚖️ LICENSE
+### MIT LICENSE
