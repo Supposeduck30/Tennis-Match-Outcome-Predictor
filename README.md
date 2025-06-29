@@ -55,7 +55,7 @@ This project was built with no external libraries at all, and it simulates the g
 
 ## ![image](https://github.com/user-attachments/assets/6083996c-2ecc-4896-8b23-dbc0d9a0213b)
 
-## ⚠️ Known issues 
+## ⚠️ Warnings/Known issues 
 - If both players are inputted with the same rankings, it still works 
 - This simulator may oversimply the effects of rankings on match outcomes 
 
